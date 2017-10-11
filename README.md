@@ -18,5 +18,4 @@ An application used for the customers to communicate with vendors through chat.
 
 ### Contribution guidelines ###
 
-* Commit to your respective branch only (frontend related changes should be commited to the "frontend" branch only) 
-* 
+* Commit to your respective branch only (frontend related changes should be commited to the "frontend" branch only)
